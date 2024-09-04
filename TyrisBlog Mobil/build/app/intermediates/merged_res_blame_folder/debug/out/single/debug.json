@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.tyristapp.tyrisblog.tyrisblog.app-merged_res-30:/drawable-v21_background.png.flat",
+        "source": "com.tyristapp.tyrisblog.tyrisblog.app-main-24:/drawable-v21/background.png"
+    },
+    {
+        "merged": "com.tyristapp.tyrisblog.tyrisblog.app-merged_res-30:/drawable-night-v21_background.png.flat",
+        "source": "com.tyristapp.tyrisblog.tyrisblog.app-main-24:/drawable-night-v21/background.png"
+    },
+    {
+        "merged": "com.tyristapp.tyrisblog.tyrisblog.app-merged_res-30:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.tyristapp.tyrisblog.tyrisblog.app-main-24:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.tyristapp.tyrisblog.tyrisblog.app-merged_res-30:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.tyristapp.tyrisblog.tyrisblog.app-main-24:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.tyristapp.tyrisblog.tyrisblog.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.tyristapp.tyrisblog.tyrisblog.app-main-24:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.tyristapp.tyrisblog.tyrisblog.app-merged_res-30:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.tyristapp.tyrisblog.tyrisblog.app-main-24:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.tyristapp.tyrisblog.tyrisblog.app-merged_res-30:/drawable-night-v21_launch_background.xml.flat",
+        "source": "com.tyristapp.tyrisblog.tyrisblog.app-main-24:/drawable-night-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.tyristapp.tyrisblog.tyrisblog.app-merged_res-30:/drawable-v21_launch_background.xml.flat",
+        "source": "com.tyristapp.tyrisblog.tyrisblog.app-main-24:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.tyristapp.tyrisblog.tyrisblog.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.tyristapp.tyrisblog.tyrisblog.app-main-24:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

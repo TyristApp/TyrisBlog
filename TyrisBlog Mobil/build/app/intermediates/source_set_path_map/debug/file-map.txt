@@ -1,0 +1,37 @@
+com.tyristapp.tyrisblog.tyrisblog.app-lifecycle-livedata-2.7.0-0 /Users/tyrist/.gradle/caches/transforms-3/0844c7f115cab6fb13856f6bfd15e440/transformed/lifecycle-livedata-2.7.0/res
+com.tyristapp.tyrisblog.tyrisblog.app-jetified-datastore-preferences-1.0.0-1 /Users/tyrist/.gradle/caches/transforms-3/0aff36824810e54f6667242758ae25cf/transformed/jetified-datastore-preferences-1.0.0/res
+com.tyristapp.tyrisblog.tyrisblog.app-lifecycle-viewmodel-2.7.0-2 /Users/tyrist/.gradle/caches/transforms-3/1355217bc0d6d5ae07d578d235f65bda/transformed/lifecycle-viewmodel-2.7.0/res
+com.tyristapp.tyrisblog.tyrisblog.app-jetified-window-java-1.2.0-3 /Users/tyrist/.gradle/caches/transforms-3/15878bbea75acef5c1c974206e0d858a/transformed/jetified-window-java-1.2.0/res
+com.tyristapp.tyrisblog.tyrisblog.app-jetified-core-ktx-1.13.1-4 /Users/tyrist/.gradle/caches/transforms-3/160c48669ccfdbd27cbcadbdafc8c3ae/transformed/jetified-core-ktx-1.13.1/res
+com.tyristapp.tyrisblog.tyrisblog.app-jetified-datastore-1.0.0-5 /Users/tyrist/.gradle/caches/transforms-3/1e2c0fc26da69ef1ecdb44f817761358/transformed/jetified-datastore-1.0.0/res
+com.tyristapp.tyrisblog.tyrisblog.app-jetified-tracing-1.2.0-6 /Users/tyrist/.gradle/caches/transforms-3/2ce974526c9427984cbaff5998b13b8e/transformed/jetified-tracing-1.2.0/res
+com.tyristapp.tyrisblog.tyrisblog.app-fragment-1.7.1-7 /Users/tyrist/.gradle/caches/transforms-3/2ff277318ee062b52d60aa3a9cc6d76d/transformed/fragment-1.7.1/res
+com.tyristapp.tyrisblog.tyrisblog.app-jetified-startup-runtime-1.1.1-8 /Users/tyrist/.gradle/caches/transforms-3/40f3042160a1a928d90ba4adbeb0759a/transformed/jetified-startup-runtime-1.1.1/res
+com.tyristapp.tyrisblog.tyrisblog.app-jetified-profileinstaller-1.3.1-9 /Users/tyrist/.gradle/caches/transforms-3/46c4b0caf19b82299051fca01b61c376/transformed/jetified-profileinstaller-1.3.1/res
+com.tyristapp.tyrisblog.tyrisblog.app-jetified-window-1.2.0-10 /Users/tyrist/.gradle/caches/transforms-3/5f216852508ae12f50a1b0d3fb55a3c6/transformed/jetified-window-1.2.0/res
+com.tyristapp.tyrisblog.tyrisblog.app-jetified-activity-1.9.1-11 /Users/tyrist/.gradle/caches/transforms-3/783232a14527de9b593491b46e3e709e/transformed/jetified-activity-1.9.1/res
+com.tyristapp.tyrisblog.tyrisblog.app-core-1.13.1-12 /Users/tyrist/.gradle/caches/transforms-3/803d5e6bfd4dbdc47ae9b29d12155d6c/transformed/core-1.13.1/res
+com.tyristapp.tyrisblog.tyrisblog.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-13 /Users/tyrist/.gradle/caches/transforms-3/8c5cc5ee739f28d9d53d27ec3c854528/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.tyristapp.tyrisblog.tyrisblog.app-jetified-core-1.0.0-14 /Users/tyrist/.gradle/caches/transforms-3/8f68419d998c8b62808311f664a75f6b/transformed/jetified-core-1.0.0/res
+com.tyristapp.tyrisblog.tyrisblog.app-lifecycle-livedata-core-2.7.0-15 /Users/tyrist/.gradle/caches/transforms-3/91df83c7bb399e6d772d5aa4d6766798/transformed/lifecycle-livedata-core-2.7.0/res
+com.tyristapp.tyrisblog.tyrisblog.app-jetified-savedstate-1.2.1-16 /Users/tyrist/.gradle/caches/transforms-3/9a84c12a81a3fe6cb132ec6cd0281364/transformed/jetified-savedstate-1.2.1/res
+com.tyristapp.tyrisblog.tyrisblog.app-lifecycle-runtime-2.7.0-17 /Users/tyrist/.gradle/caches/transforms-3/9f20a46204b82099fd96e7a4836d2597/transformed/lifecycle-runtime-2.7.0/res
+com.tyristapp.tyrisblog.tyrisblog.app-webkit-1.11.0-18 /Users/tyrist/.gradle/caches/transforms-3/ad678a80132bc9acafd7f9e0a156b3c0/transformed/webkit-1.11.0/res
+com.tyristapp.tyrisblog.tyrisblog.app-core-runtime-2.2.0-19 /Users/tyrist/.gradle/caches/transforms-3/b25aa14391ffcc4201dfa605c6e27f90/transformed/core-runtime-2.2.0/res
+com.tyristapp.tyrisblog.tyrisblog.app-jetified-lifecycle-livedata-core-ktx-2.7.0-20 /Users/tyrist/.gradle/caches/transforms-3/b414be048e335160d55f9422c19c7223/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.tyristapp.tyrisblog.tyrisblog.app-jetified-annotation-experimental-1.4.0-21 /Users/tyrist/.gradle/caches/transforms-3/e716fadd97b18fd8b5f77024bcdb220a/transformed/jetified-annotation-experimental-1.4.0/res
+com.tyristapp.tyrisblog.tyrisblog.app-jetified-lifecycle-process-2.7.0-22 /Users/tyrist/.gradle/caches/transforms-3/e82bd367a9d0ba78b452cce3ac4e0041/transformed/jetified-lifecycle-process-2.7.0/res
+com.tyristapp.tyrisblog.tyrisblog.app-debug-23 /Users/tyrist/TyrisBlog/TyrisBlog Mobil/android/app/src/debug/res
+com.tyristapp.tyrisblog.tyrisblog.app-main-24 /Users/tyrist/TyrisBlog/TyrisBlog Mobil/android/app/src/main/res
+com.tyristapp.tyrisblog.tyrisblog.app-pngs-25 /Users/tyrist/TyrisBlog/TyrisBlog Mobil/build/app/generated/res/pngs/debug
+com.tyristapp.tyrisblog.tyrisblog.app-resValues-26 /Users/tyrist/TyrisBlog/TyrisBlog Mobil/build/app/generated/res/resValues/debug
+com.tyristapp.tyrisblog.tyrisblog.app-rs-27 /Users/tyrist/TyrisBlog/TyrisBlog Mobil/build/app/generated/res/rs/debug
+com.tyristapp.tyrisblog.tyrisblog.app-mergeDebugResources-28 /Users/tyrist/TyrisBlog/TyrisBlog Mobil/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.tyristapp.tyrisblog.tyrisblog.app-mergeDebugResources-29 /Users/tyrist/TyrisBlog/TyrisBlog Mobil/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.tyristapp.tyrisblog.tyrisblog.app-merged_res-30 /Users/tyrist/TyrisBlog/TyrisBlog Mobil/build/app/intermediates/merged_res/debug
+com.tyristapp.tyrisblog.tyrisblog.app-packaged_res-31 /Users/tyrist/TyrisBlog/TyrisBlog Mobil/build/flutter_native_splash/intermediates/packaged_res/debug
+com.tyristapp.tyrisblog.tyrisblog.app-packaged_res-32 /Users/tyrist/TyrisBlog/TyrisBlog Mobil/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/debug
+com.tyristapp.tyrisblog.tyrisblog.app-packaged_res-33 /Users/tyrist/TyrisBlog/TyrisBlog Mobil/build/image_picker_android/intermediates/packaged_res/debug
+com.tyristapp.tyrisblog.tyrisblog.app-packaged_res-34 /Users/tyrist/TyrisBlog/TyrisBlog Mobil/build/shared_preferences_android/intermediates/packaged_res/debug
+com.tyristapp.tyrisblog.tyrisblog.app-packaged_res-35 /Users/tyrist/TyrisBlog/TyrisBlog Mobil/build/speech_to_text/intermediates/packaged_res/debug
+com.tyristapp.tyrisblog.tyrisblog.app-packaged_res-36 /Users/tyrist/TyrisBlog/TyrisBlog Mobil/build/webview_flutter_android/intermediates/packaged_res/debug
